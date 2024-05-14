@@ -1,0 +1,19 @@
+.tick {
+    width: 20%;
+    padding-left: 30px;
+    margin-left: 10rem;
+  }
+  .redirect-page {
+    color: rgb(240, 47, 240);
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: bold;
+  }
+@media(min-width:320px) {
+    .about .content p {
+        padding-right: 200px;
+    }
+    .redirect-page {
+        padding-left: 20px;
+    }
+}
